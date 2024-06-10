@@ -55,7 +55,7 @@ const DetailModal = ({ selectedFood }: any) => {
           </View>
 
           <Text className="mt-9 text-3xl font-pbold text-black underline">
-            Description
+            Descriptio
           </Text>
 
           <View>
